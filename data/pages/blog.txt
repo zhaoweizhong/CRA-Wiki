@@ -1,0 +1,5 @@
+{{http://cra.moe/blog/>[blog]}}
+
+/*
+{{NEWPAGE>blog}}
+*/

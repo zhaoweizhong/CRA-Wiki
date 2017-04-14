@@ -1,0 +1,9 @@
+  * [[start|Wiki 首页]]
+  * [[redirect:blog|CRA 博客]]
+  * [[redirect:events|CRA 活动]]
+  * [[redirect:mirrors|开源软件镜像]]
+  * [[mirrors:help|镜像使用帮助]]
+  * [[cra:contact|联系我们]]
+  * [[cra:join|加入我们]]
+  * [[cra:donate|捐赠我们]]
+~~NOCACHE~~
